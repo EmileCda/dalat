@@ -1,0 +1,624 @@
+{
+  "language": [
+    {
+      "id": "fr",
+      "name": "Francais",
+      "description": "langue Francaise",
+      "urlFlag": "/src/image/fr.png"
+    },
+
+    {
+      "id": "pr",
+      "name": "Portugues",
+      "description": "língua portuguesa",
+      "urlFlag": "/src/image/pr.png"
+    },
+    {
+      "id": "en",
+      "name": "English",
+      "description": "English speaking",
+      "urlFlag": "/src/image/en.png"
+    }
+  ],
+  "name": {
+    "fr": "Existentia",
+    "en": "Existentia",
+    "pr": "Existentia"
+  },
+
+  "navBar": [
+    {
+      "fr": "Test",
+      "en": "[uk] Test",
+      "pr": "[PR] Test",
+      "link": "./test"
+    },
+    {
+      "fr": "Accueil",
+      "en": "[uk] Home",
+      "pr": "[PR] Accueil",
+      "link": "./"
+    },
+    {
+      "fr": "Le mozambique",
+      "en": "[uk] Le mozambique",
+      "pr": "[PR] Le mozambique",
+      "link": "./Country"
+    },
+    {
+      "fr": "Les services",
+      "en": "[uk] Les services",
+      "pr": "[PR] Les services",
+      "link": "./Services"
+    },
+    {
+      "fr": "Package",
+      "en": "[uk] Package",
+      "pr": "[PR] Package",
+      "link": "./Packages"
+    },
+    {
+      "fr": "Contact",
+      "en": "[uk] Contact",
+      "pr": "[PR] Contact",
+      "link": "./About"
+    }
+  ],
+
+  "carouselInterval": 5000,
+  "carousel": [
+    {
+      "fr": "description image 1",
+      "en": "[en] description image 1",
+      "pr": "[pr]description image 1",
+      "url": "/src/image/Vilankulous1.jpg"
+    },
+    {
+      "fr": "description image 2",
+      "en": "[en] description image 2",
+      "pr": "[pr]description image 2",
+      "url": "/src/image/Vilankulous2.jpg"
+    },
+    {
+      "fr": "description image 3",
+      "en": "[en] description image 3",
+      "pr": "[pr]description image 3",
+      "url": "/src/image/Vilankulous3.jpg"
+    },
+    {
+      "fr": "description image4",
+      "en": "[en] description image4",
+      "pr": "[pr]description image4",
+      "url": "/src/image/maputo1.jpg"
+    },
+    {
+      "fr": "description image5",
+      "en": "[en] description image5",
+      "pr": "[pr]description image5",
+      "url": "/src/image/maputo2.jpg"
+    },
+    {
+      "fr": "description image6",
+      "en": "[en] description image6",
+      "pr": "[pr]description image6",
+      "url": "/src/image/maputo3.jpg"
+    }
+  ],
+  "packages": [
+    {
+      "title": {
+        "fr": "Pack Serenity",
+        "en": "[en]Pack Serenity",
+        "pr": "[pr]Pack Serendescription"
+      },
+      "description": {
+        "fr": " description Pack Serenity 6/7 – 7h/21h",
+        "en": "[en] description Pack Serenity",
+        "pr": "[pr] description Pack Sereniprice"
+      },
+      "price": {
+        "fr": "2700 €",
+        "en": "$2800",
+        "pr": "180 000 MT"
+      },
+      "alt": {
+        "fr": "Image représentant description Pack Serenity",
+        "en": "[en]Image représentant description Pack Serenity",
+        "pr": "[pr]Image représen{tant description Pack Serenity"
+      },
+      "image": {
+        "fr": "/src/image/package-serenity.jpg",
+        "en": "/src/image/package-serenity.jpg",
+        "pr": "/src/image/package-serenity.jpg"
+      }
+    },
+
+    {
+      "title": {
+        "fr": "Pack Elite",
+        "en": "[en]Pack Elite",
+        "pr": "[pr]Pack Elite"
+      },
+      "description": {
+        "fr": " description Pack Elite 7/7 - 7h/21h",
+        "en": "[en] description Pack Elite 7/7 - 7h/21h",
+        "pr": "[pr] ddescription Pack Elite 7/7 - 7h/21h"
+      },
+      "price": {
+        "fr": "3700 €",
+        "en": "$4000",
+        "pr": "250 000 MT"
+      },
+      "alt": {
+        "fr": "Image représentant description Pack Elite",
+        "en": "[en]Image représentant description Pack Elite",
+        "pr": "[pr]Image représen{tant description Pack Elite"
+      },
+      "image": {
+        "fr": "/src/image/package-elite.webp",
+        "en": "/src/image/package-elite.webp",
+        "pr": "/src/image/package-elite.webp"
+      }
+    },
+    {
+      "title": {
+        "fr": "Pack Experience",
+        "en": "[en]Pack Experience",
+        "pr": "[pr]Pack Serendescription"
+      },
+      "description": {
+        "fr": " description Pack Experience 6/7 – 7h/21h",
+        "en": "[en] description Pack Experience",
+        "pr": "[pr] description Pack Sereniprice"
+      },
+      "price": {
+        "fr": "à définir €",
+        "en": "To plan",
+        "pr": "[pr] To plan"
+      },
+      "alt": {
+        "fr": "Image représentant description Pack Experience",
+        "en": "[en]Image représentant description Pack Experience",
+        "pr": "[pr]Image représen{tant description Pack Experience"
+      },
+      "image": {
+        "fr": "/src/image/package-experience.jpg",
+        "en": "/src/image/package-experience.jpg",
+        "pr": "/src/image/package-experience.jpg"
+      }
+    }
+  ],
+
+  "services": [
+    {
+      "title": {
+        "fr": "Home services",
+        "en": "[en]Home services",
+        "pr": "[pr]Home services"
+      },
+      "prelude": {
+        "fr": "Le pays se divise en deux parties distinctes : le sud, avec Maputo, capitale en pleine effervescence, concentre l'essentiel des richesses du Mozambique quand le nord, largement sous-développé, est une région beaucoup plus sauvage à 1000 lieues du tourisme de masse et représente le terrain de jeu idéal pour les voyageurs en quête d'aventure. ",
+        "en": "[en]Le pays se divise en deux parties distinctes : le sud, avec Maputo, capitale en pleine effervescence, concentre l'essentiel des richesses du Mozambique quand le nord, largement sous-développé, est une région beaucoup plus sauvage à 1000 lieues du tourisme de masse et représente le terrain de jeu idéal pour les voyageurs en quête d'aventure. ",
+        "pr": "[pr]Le pays se divise en deux parties distinctes : le sud, avec Maputo, capitale en pleine effervescence, concentre l'essentiel des richesses du Mozambique quand le nord, largement sous-développé, est une région beaucoup plus sauvage à 1000 lieues du tourisme de masse et représente le terrain de jeu idéal pour les voyageurs en quête d'aventure. "
+      },
+      "epilog": {
+        "fr": "Epilog description Home services",
+        "en": "[en]Epilog description Home services",
+        "pr": "[pr]Epi{log  description Home services"
+      },
+      "alt": {
+        "fr": "Image représentant description Home services",
+        "en": "[en]Image représentant description Home services",
+        "pr": "[pr]Image représen{tant description Home services"
+      },
+      "image": {
+        "fr": "/src/image/home-services.jpg",
+        "en": "/src/image/home-services.jpg",
+        "pr": "/src/image/home-services.jpg"
+      }
+    },
+
+    {
+      "title": {
+        "fr": "Familly",
+        "en": "[en]Familly{",
+        "pr": "[pr]Familly"
+      },
+      "prelude": {
+        "fr": "prelude description Familly",
+        "en": "[en]prelude description Familly",
+        "pr": "[{pr]prelude description Familly"
+      },
+      "epilog": {
+        "fr": "Epilog description Familly",
+        "en": "[en]Epilog description Familly",
+        "pr": "[{pr]Epilog  description Familly"
+      },
+      "alt": {
+        "fr": "Image représentant description Familly",
+        "en": "[en]Image représentant description Familly",
+        "pr": "[pr]Image re{présentant description Familly"
+      },
+      "image": {
+        "fr": "/src/image/familly-services.jpg",
+        "en": "/src/image/familly-services.jpg",
+        "pr": "/{src/image/familly-services.jpg"
+      }
+    },
+    {
+      "title": {
+        "fr": "Mobility and Car",
+        "en": "[en]Mobility and Car",
+        "pr": "[pr]Mobility and Car"
+      },
+      "prelude": {
+        "fr": "prelude description Mobility and Car",
+        "en": "[en]prelude description Mobility and Car",
+        "pr": "[pr]prelud{e description Mobility and Car"
+      },
+      "epilog": {
+        "fr": "Epilog description Mobility and Car",
+        "en": "[en]Epilog description Mobility and Car",
+        "pr": "[pr]Epilog{  description Mobility and Car"
+      },
+      "alt": {
+        "fr": "Image représentant description Mobility and Car",
+        "en": "[en]Image représentant description Mobility and Car",
+        "pr": "[pr]Image représentan{t description Mobility and Car"
+      },
+      "image": {
+        "fr": "/src/image/mobility-and-car-services.jpg",
+        "en": "/src/image/mobility-and-car-services.jpg",
+        "pr": "/{src/image/mobility-and-car-services.jpg"
+      }
+    },
+    {
+      "title": {
+        "fr": "In the country",
+        "en": "[en]In the country",
+        "pr": "[pr]In the country"
+      },
+      "prelude": {
+        "fr": "prelude description In the country",
+        "en": "[en]prelude description In the country",
+        "pr": "[pr]prel{ude description In the country"
+      },
+      "epilog": {
+        "fr": "Epilog description In the country",
+        "en": "[en]Epilog description In the country",
+        "pr": "[pr]Epil{og  description In the country"
+      },
+      "alt": {
+        "fr": "Image représentant description In the country",
+        "en": "[en]Image représentant description In the country",
+        "pr": "[pr]Image représent{ant description In the country"
+      },
+      "image": {
+        "fr": "/src/image/in-the-country-services.jpg",
+        "en": "/src/image/in-the-country-services.jpg",
+        "pr": "/src/image/in-the-country-services.jpg"
+      }
+    },
+    {
+      "title": {
+        "fr": "Leisures",
+        "en": "[en]Leisures",
+        "pr": "[pr]Leisures"
+      },
+      "prelude": {
+        "fr": "prelude description Leisures",
+        "en": "[en]prelude description Leisures",
+        "pr": "[p{r]prelude description Leisures"
+      },
+      "epilog": {
+        "fr": "Epilog description Leisures",
+        "en": "[en]Epilog description Leisures",
+        "pr": "[p{r]Epilog  description Leisures"
+      },
+      "alt": {
+        "fr": "Image représentant description Leisures",
+        "en": "[en]Image représentant description Leisures",
+        "pr": "[pr]Image rep{résentant description Leisures"
+      },
+      "image": {
+        "fr": "/src/image/leisures-services.jpg",
+        "en": "/src/image/leisures-services.jpg",
+        "pr": "/src/image/leisures-services.jpg"
+      }
+    }
+  ],
+
+  "infoService": {
+    "title": {
+      "fr": "Nos services",
+      "en": "[en]Nos services",
+      "pr": "[pr]Nos services"
+    },
+    "prelude": {
+      "fr": "premule Nos services Voltaire est l'un des philosophes des lumières les plus célèbres. Il s'engage dans la défense de la justice et de la tolérance religieuse.",
+      "en": "[en]premule Nos services Voltaire est l'un des philosophes des lumières les plus célèbres. Il s'engage dans la défense de la justice et de la tolérance religieuse.",
+      "pr": "[pr]premule Nos services Voltaire est l'un des philosophes des lumières les plus célèbres. Il s'engage dans la défense de la justice et de la tolérance religieuse."
+    },
+    "epilog": {
+      "fr": "Epilog premule Nos services Voltaire est l'un des philosophes des lumières les plus célèbres. Il s'engage dans la défense de la justice et de la tolérance religieuse.",
+      "en": "[en]Epilog premule Nos services Voltaire est l'un des philosophes des lumières les plus célèbres. Il s'engage dans la défense de la justice et de la tolérance religieuse.",
+      "pr": "[pr]Epilog premule Nos services Voltaire est l'un des philosophes des lumières les plus célèbres. Il s'engage dans la défense de la justice et de la tolérance religieuse."
+    },
+    "alt": {
+      "fr": "Image représentant nos services",
+      "en": "[en]Image représentant nos services",
+      "pr": "[pr]Image représentant nos services"
+    },
+    "image": {
+      "fr": "/src/image/nos-services.jpg",
+      "en": "/src/image/nos-services.jpg",
+      "pr": "/src/image/nos-services.jpg"
+    }
+  },
+
+  "infoPackage": {
+    "title": {
+      "fr": "Package services & Rates",
+      "en": "[en]Package services & Rates",
+      "pr": "[pr]Package services & Rates"
+    },
+    "prelude": {
+      "fr": "premule Nos packages Voltaire est l'un des philosophes des lumières les plus célèbres. Il s'engage dans la défense de la justice et de la tolérance religieuse.",
+      "en": "[en]premule Nos packages Voltaire est l'un des philosophes des lumières les plus célèbres. Il s'engage dans la défense de la justice et de la tolérance religieuse.",
+      "pr": "[pr]premule Nos packages Voltaire est l'un des philosophes des lumières les plus célèbres. Il s'engage dans la défense de la justice et de la tolérance religieuse."
+    },
+    "epilog": {
+      "fr": "Epilog premule Nos packages Voltaire est l'un des philosophes des lumières les plus célèbres. Il s'engage dans la défense de la justice et de la tolérance religieuse.",
+      "en": "[en]Epilog premule Nos packages Voltaire est l'un des philosophes des lumières les plus célèbres. Il s'engage dans la défense de la justice et de la tolérance religieuse.",
+      "pr": "[pr]Epilog premule Nos packages Voltaire est l'un des philosophes des lumières les plus célèbres. Il s'engage dans la défense de la justice et de la tolérance religieuse."
+    },
+    "alt": {
+      "fr": "Image représentant nos packages",
+      "en": "[en]Image représentant nos packages",
+      "pr": "[pr]Image représentant nos packages"
+    },
+    "image": {
+      "fr": "/src/image/nos-packages.webp",
+      "en": "/src/image/nos-packages.webp",
+      "pr": "/src/image/nos-packages.webp"
+    }
+  },
+
+  "country": {
+    "prelude": {
+      "fr": "Le Mozambique, en forme longue la république du Mozambique, en portugais : Moçambique et República de Moçambique, est un État situé sur la côte orientale du continent africain. Il est entouré par l'Afrique du Sud, l'Eswatini, Madagascar, les Comores, le Zimbabwe, la Zambie, le Malawi et la Tanzanie.",
+      "en": "[en] Le Mozambique, en forme longue la république du Mozambique, en portugais : Moçambique et República de Moçambique, est un État situé sur la côte orientale du continent africain. Il est entouré par l'Afrique du Sud, l'Eswatini, Madagascar, les Comores, le Zimbabwe, la Zambie, le Malawi et la Tanzanie.",
+      "pr": "[pr] Le Mozambique, en forme longue la république du Mozambique, en portugais : Moçambique et República de Moçambique, est un État situé sur la côte orientale du continent africain. Il est entouré par l'Afrique du Sud, l'Eswatini, Madagascar, les Comores, le Zimbabwe, la Zambie, le Malawi et la Tanzanie."
+    },
+    "title": {
+      "fr": "République du Mozambique",
+      "en": "[en]República de Moçambique",
+      "pr": "[pr]República de Moçambique"
+    },
+    "epilog": {
+      "fr": "C'est une ancienne colonie portugaise, le deuxième pays lusophone d'Afrique, derrière l'Angola, par sa population et par sa superficie. Le pays est membre de la Communauté des pays de langue portugaise (CPLP), de l'Organisation internationale de la francophonie (OIF), du Commonwealth et de l'Organisation de la coopération islamique. ",
+      "en": "[en]C'est une ancienne colonie portugaise, le deuxième pays lusophone d'Afrique, derrière l'Angola, par sa population et par sa superficie. Le pays est membre de la Communauté des pays de langue portugaise (CPLP), de l'Organisation internationale de la francophonie (OIF), du Commonwealth et de l'Organisation de la coopération islamique. ",
+      "pr": "[pr]C'est une ancienne colonie portugaise, le deuxième pays lusophone d'Afrique, derrière l'Angola, par sa population et par sa superficie. Le pays est membre de la Communauté des pays de langue portugaise (CPLP), de l'Organisation internationale de la francophonie (OIF), du Commonwealth et de l'Organisation de la coopération islamique. "
+    },
+    "alt": {
+      "fr": "Image représentant généralité au mozambque",
+      "en": "[en]Image représentant généralité au mozambque",
+      "pr": "[pr]Image représentant généralitéau mozambque"
+    },
+    "image": {
+      "fr": "/src/image/country.jpg",
+      "en": "/src/image/country.jpg",
+      "pr": "/src/image/country.jpg"
+    }
+  },
+  "gastronomy": {
+    "chapterTitle": {
+      "fr": "Gastronomy",
+      "en": "[en] Gastronomy",
+      "pr": "[pr] Gastronomy"
+    },
+
+    "dish": [
+      {
+        "title": {
+          "fr": "La Xima",
+          "en": "[en] La Xima",
+          "pr": "[pr]La Xima"
+        },
+        "prelude": {
+          "fr": "plat traditionnel, c’est une purée faite à partir de farine de manioc et qui sert de pain pour accompagner les autres plats.",
+          "en": "[en] plat traditionnel, c’est une purée faite à partir de farine de manioc et qui sert de pain pour accompagner les autres plats.",
+          "pr": "[pr] plat traditionnel, c’est une purée faite à partir de farine de manioc et qui sert de pain pour accompagner les autres plats."
+        },
+        "epilog": {
+          "fr": "",
+          "en": "",
+          "pr": ""
+        },
+        "alt": {
+          "fr": "Image représentant le plat traditionel la-xima ",
+          "en": "[en] Image représentant le plat traditionel la-xima ",
+          "pr": "[pr] Image représentant le plat traditionel la-xima "
+        },
+        "image": {
+          "fr": "/src/image/la-xima.jpg",
+          "en": "/src/image/la-xima.jpg",
+          "pr": "/src/image/la-xima.jpg"
+        }
+      },
+      {
+        "title": {
+          "fr": "La Matapa",
+          "en": "[en]La Matapa",
+          "pr": "[pr]La Matapa"
+        },
+        "prelude": {
+          "fr": "à base de feuilles écrasées, de cacahuètes et de crevettes, c’est aussi une recette traditionnelle.",
+          "en": "[en]à base de feuilles écrasées, de cacahuètes et de crevettes, c’est aussi une recette traditionnelle.",
+          "pr": "[pr]à base de feuilles écrasées, de cacahuètes et de crevettes, c’est aussi une recette traditionnelle."
+        },
+        "epilog": {
+          "fr": "",
+          "en": "",
+          "pr": ""
+        },
+        "alt": {
+          "fr": "Image représentant le plat traditionel la-Matapa",
+          "en": "[en]Image représentant le plat traditionel la-Matapa",
+          "pr": "[pr]Image représentant le plat traditionel la-Matapa"
+        },
+        "image": {
+          "fr": "/src/image/matapa.jpg",
+          "en": "/src/image/matapa.jpg",
+          "pr": "/src/image/matapa.jpg"
+        }
+      },
+      {
+        "title": {
+          "fr": "Les Camaroes",
+          "en": "[en]Les Camaroes",
+          "pr": "[pr]Les Camaroes"
+        },
+        "prelude": {
+          "fr": "crevettes servies fendues en deux et grillées, très pimentées.",
+          "en": "[en]crevettes servies fendues en deux et grillées, très pimentées.",
+          "pr": "[pr]crevettes servies fendues en deux et grillées, très pimentées."
+        },
+        "epilog": {
+          "fr": "",
+          "en": "",
+          "pr": ""
+        },
+        "alt": {
+          "fr": "Image représentant description Badrias",
+          "en": "[en]Image représentant description Badrias",
+          "pr": "[pr]Image représen{tant description Badrias"
+        },
+        "image": {
+          "fr": "/src/image/camaroes.jpg",
+          "en": "/src/image/camaroes.jpg",
+          "pr": "/src/image/camaroes.jpg"
+        }
+      },
+      {
+        "title": {
+          "fr": "Le Poulet à la zambézienne ",
+          "en": "[en]Le Poulet à la zambézienne ",
+          "pr": "[pr]Le Poulet à la zambézienne "
+        },
+        "prelude": {
+          "fr": "il est mariné dans du citron, de l’ail et du piment, et arrosé d’eau de coco puis grillé.",
+          "en": "[en] il est mariné dans du citron, de l’ail et du piment, et arrosé d’eau de coco puis grillé.",
+          "pr": "[pr] il est mariné dans du citron, de l’ail et du piment, et arrosé d’eau de coco puis grillé."
+        },
+        "epilog": {
+          "fr": "",
+          "en": "",
+          "pr": ""
+        },
+        "alt": {
+          "fr": "Image représentant description Le Poulet à la zambézienne",
+          "en": "[en]Image représentant description Le Poulet à la zambézienne",
+          "pr": "[pr]Image représen{tant description Le Poulet à la zambézienne"
+        },
+        "image": {
+          "fr": "/src/image/poulet-zambezienne.jpg",
+          "en": "/src/image/poulet-zambezienne.jpg",
+          "pr": "/src/image/poulet-zambezienne.jpg"
+        }
+      }
+    ]
+  },
+  "resources": {
+    "title": {
+      "fr": "Ressource",
+      "en": "[en]Ressource",
+      "pr": "[pr]Ressource"
+    },
+    "prelude": {
+      "fr": "Le Mozambique est considéré comme l’exemple d’une reconstruction réussie. Cependant, le pays doit faire face aux carences d’une économie conçue, depuis la colonisation portugaise, pour satisfaire d’abord les besoins des pays voisins, notamment l’Afrique du Sud. L’arrivée de nouveaux partenaires (Australie, Brésil, Inde, etc.) pourrait changer la donne dans les secteurs-clés de l’énergie, des infrastructures et des mines.",
+      "en": "[en] Le Mozambique est considéré comme l’exemple d’une reconstruction réussie. Cependant, le pays doit faire face aux carences d’une économie conçue, depuis la colonisation portugaise, pour satisfaire d’abord les besoins des pays voisins, notamment l’Afrique du Sud. L’arrivée de nouveaux partenaires (Australie, Brésil, Inde, etc.) pourrait changer la donne dans les secteurs-clés de l’énergie, des infrastructures et des mines.",
+      "pr": "[pr] Le Mozambique est considéré comme l’exemple d’une reconstruction réussie. Cependant, le pays doit faire face aux carences d’une économie conçue, depuis la colonisation portugaise, pour satisfaire d’abord les besoins des pays voisins, notamment l’Afrique du Sud. L’arrivée de nouveaux partenaires (Australie, Brésil, Inde, etc.) pourrait changer la donne dans les secteurs-clés de l’énergie, des infrastructures et des mines."
+    },
+    "epilog": {
+      "fr": "Le Mozambique est l’exemple d’une reconstruction postconflit réussie. Dans leur rapport annuel 2009 sur l’Afrique, la Banque africaine de développement (BAD) et l’Organisation de coopération et de développement économiques (OCDE) soulignent ainsi la « stabilité macroéconomique et politique » du pays, une « impressionnante croissance moyenne de 8 %, entre 2000 et 2006 ». En outre, cet Etat consacre une part élevée de son budget à l’éducation (22 %). Toutefois, avec un revenu moyen par tête de 230 euros, le Mozambique demeure parmi les pays les plus pauvres du monde, avec des inégalités croissantes entre les régions, dont certaines sont de surcroît fréquemment frappées par des catastrophes naturelles — inondations et vagues de sécheresse. Maputo est ainsi un des premiers bénéficiaires de l’aide publique au développement en Afrique subsaharienne.",
+      "en": "[en]Le Mozambique est l’exemple d’une reconstruction postconflit réussie. Dans leur rapport annuel 2009 sur l’Afrique, la Banque africaine de développement (BAD) et l’Organisation de coopération et de développement économiques (OCDE) soulignent ainsi la « stabilité macroéconomique et politique » du pays, une « impressionnante croissance moyenne de 8 %, entre 2000 et 2006 ». En outre, cet Etat consacre une part élevée de son budget à l’éducation (22 %). Toutefois, avec un revenu moyen par tête de 230 euros, le Mozambique demeure parmi les pays les plus pauvres du monde, avec des inégalités croissantes entre les régions, dont certaines sont de surcroît fréquemment frappées par des catastrophes naturelles — inondations et vagues de sécheresse. Maputo est ainsi un des premiers bénéficiaires de l’aide publique au développement en Afrique subsaharienne.",
+      "pr": "[pr]Le Mozambique est l’exemple d’une reconstruction postconflit réussie. Dans leur rapport annuel 2009 sur l’Afrique, la Banque africaine de développement (BAD) et l’Organisation de coopération et de développement économiques (OCDE) soulignent ainsi la « stabilité macroéconomique et politique » du pays, une « impressionnante croissance moyenne de 8 %, entre 2000 et 2006 ». En outre, cet Etat consacre une part élevée de son budget à l’éducation (22 %). Toutefois, avec un revenu moyen par tête de 230 euros, le Mozambique demeure parmi les pays les plus pauvres du monde, avec des inégalités croissantes entre les régions, dont certaines sont de surcroît fréquemment frappées par des catastrophes naturelles — inondations et vagues de sécheresse. Maputo est ainsi un des premiers bénéficiaires de l’aide publique au développement en Afrique subsaharienne."
+    },
+    "alt": {
+      "fr": "Image représentant description les ressource naturel mozambique",
+      "en": "[en]Image représentant description les ressource naturel mozambique",
+      "pr": "[pr]Image représen{tant description les ressource naturel mozambique"
+    },
+    "image": {
+      "fr": "/src/image/mozambique-ressource.png",
+      "en": "/src/image/mozambique-ressource.png",
+      "pr": "/src/image/mozambique-ressource.png"
+    }
+  },
+  "Tourisme": {
+    "title": {
+      "fr": "Tourisme au Mozambique",
+      "en": "[en]Tourisme au Mozambique",
+      "pr": "[pr]Tourisme au Mozambique"
+    },
+    "prelude": {
+      "fr": "Le pays se divise en deux parties distinctes : le sud, avec Maputo, capitale en pleine effervescence, concentre l'essentiel des richesses du Mozambique quand le nord, largement sous-développé, est une région beaucoup plus sauvage à 1000 lieues du tourisme de masse et représente le terrain de jeu idéal pour les voyageurs en quête d'aventure. ",
+      "en": "[en]Le pays se divise en deux parties distinctes : le sud, avec Maputo, capitale en pleine effervescence, concentre l'essentiel des richesses du Mozambique quand le nord, largement sous-développé, est une région beaucoup plus sauvage à 1000 lieues du tourisme de masse et représente le terrain de jeu idéal pour les voyageurs en quête d'aventure. ",
+      "pr": "[pr]Le pays se divise en deux parties distinctes : le sud, avec Maputo, capitale en pleine effervescence, concentre l'essentiel des richesses du Mozambique quand le nord, largement sous-développé, est une région beaucoup plus sauvage à 1000 lieues du tourisme de masse et représente le terrain de jeu idéal pour les voyageurs en quête d'aventure. "
+    },
+    "epilog": {
+      "fr": "Le Mozambique, situé sur la côte sud-africaine juste en face de Madagascar, demeure un territoire plutôt méconnu des touristes. Et pourtant, ses longues plages ombragées de cocotiers, son atmosphère mystérieuse et ses îles au caractère si spécial offrent un potentiel énorme pour ses visiteurs. Si la capitale du Mozambique, Maputo, et sa cathédrale, ses musées et sa maison Eiffel feront le bonheur des amateurs d'architecture, le parc national de Gorongosa, les réserves naturelles de Maputo et Niassa et le lac Malawi plairont aux amoureux de la nature.",
+      "en": "[en]Le Mozambique, situé sur la côte sud-africaine juste en face de Madagascar, demeure un territoire plutôt méconnu des touristes. Et pourtant, ses longues plages ombragées de cocotiers, son atmosphère mystérieuse et ses îles au caractère si spécial offrent un potentiel énorme pour ses visiteurs. Si la capitale du Mozambique, Maputo, et sa cathédrale, ses musées et sa maison Eiffel feront le bonheur des amateurs d'architecture, le parc national de Gorongosa, les réserves naturelles de Maputo et Niassa et le lac Malawi plairont aux amoureux de la nature.",
+      "pr": "[pr]Le Mozambique, situé sur la côte sud-africaine juste en face de Madagascar, demeure un territoire plutôt méconnu des touristes. Et pourtant, ses longues plages ombragées de cocotiers, son atmosphère mystérieuse et ses îles au caractère si spécial offrent un potentiel énorme pour ses visiteurs. Si la capitale du Mozambique, Maputo, et sa cathédrale, ses musées et sa maison Eiffel feront le bonheur des amateurs d'architecture, le parc national de Gorongosa, les réserves naturelles de Maputo et Niassa et le lac Malawi plairont aux amoureux de la nature."
+    },
+    "alt": {
+      "fr": "Image représentant description tourisme au mozambique",
+      "en": "[en]Image représentant description tourisme au mozambique",
+      "pr": "[pr]Image représen{tant description tourisme au mozambique"
+    },
+    "image": {
+      "fr": "/src/image/tourisme.jpg",
+      "en": "/src/image/tourisme.jpg",
+      "pr": "/src/image/tourisme.jpg"
+    }
+  },
+
+  "contact": {
+    "title": {
+      "fr": "nous contacter",
+      "en": "[en]nous contacter",
+      "pr": "[pr]nous contacter"
+    },
+    "name": {
+      "fr": "Nom",
+      "en": "[en]Nom",
+      "pr": "[pr]Nom"
+    },
+    "phone": {
+      "fr": "Téléphone",
+      "en": "[en]Téléphone",
+      "pr": "[pr]Téléphone"
+    },
+    "email": {
+      "fr": "E-mail",
+      "en": "[en]E-mail",
+      "pr": "[pr]E-mail"
+    },
+    "subject": {
+      "fr": "Objet",
+      "en": "[en]Objet",
+      "pr": "[pr]Objet"
+    },
+    "ourEmail": {
+      "fr": "mail : contact@caracol.com",
+      "en": "[en]mail : contact@caracol.com",
+      "pr": "[pr]mail : contact@caracol.com"
+    },
+    "message": {
+      "fr": "message",
+      "en": "[en]message",
+      "pr": "[pr]message"
+    }
+  }
+}
